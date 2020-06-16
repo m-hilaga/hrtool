@@ -8,7 +8,7 @@
 ```bash
 $ git clone https://github.com/m-hilaga/hrtool
 $ cd hrtool
-$ pip install -r requests.txt
+$ pip install -r requirements.txt
 ```
 
 ## salary_rating.py
